@@ -1,0 +1,15 @@
+{
+    "name": "Grapes J S",
+    "description": "grapesjs integration",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "OrysB"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
